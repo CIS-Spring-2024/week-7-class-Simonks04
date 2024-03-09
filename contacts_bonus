@@ -79,29 +79,7 @@
         </div>
         
         <form method="post">
-        <!--
-        <br>
-        Name:<input type = "text"  id="name" placeholder="Enter your name"  required> <br> 
-        <br>
-        Phone:<input type = "text" id="phone" placeholder="333-333-4444" required><br>
-        <br>
-        Email:<input type = "text" id="email" placeholder="Enter your email" required><br>
-        <br>
-        Password:<input type = "text" id="password" placeholder="Enter your password" required><br>
-        <br>
-        
-        Date of Birth: <input type="date" id="tdate">
-        <br><br>
-
-
-        <p>Preferred contact method</p>
-        <input type="radio" name="r01"> Email
-        <input type="radio" name="r01"> Phone
-        <br><br>
-
-        <BUTTON type="submit"> Submit </BUTTON>
-            -->
-        
+      
         <label>Name:</label>
         <input type="text" id="name" required>
 
